@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexhaki
+- 👋 Hi, I’m @Alex
 - 👀 I’m interested in coding block chaain and IOT
 - I’m currently learning Python coding language 
 - 💞️ I’m looking to collaborate on the reserch of Incription codes 
